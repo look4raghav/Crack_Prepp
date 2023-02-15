@@ -12,3 +12,5 @@ char *myStrcat(char *s, const char *t)
         ;
     return p;
 }
+
+/**/
