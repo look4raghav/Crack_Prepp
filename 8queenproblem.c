@@ -45,3 +45,5 @@ void print_solution()
     int i;
     for(i=1; i<=8; i++)printf("\nt[%d] = [%d]", i, t[i]);
 }
+
+/**/
