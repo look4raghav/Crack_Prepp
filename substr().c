@@ -15,6 +15,7 @@ int main()
     return 0;
 }
 
+
 void mySubstr(char *dest, char *src, int positionm int length)
 {
     while(length>0)
