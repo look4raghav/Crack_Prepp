@@ -60,7 +60,3 @@ char *convert(unsigned int, int)
     return(ptr);
 }
 
-
-
-
-/**/
