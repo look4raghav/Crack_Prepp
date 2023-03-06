@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int atoi(const char* string)
 {
     int value = 0;
