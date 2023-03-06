@@ -24,4 +24,5 @@ int compare_linked_lists(struct node *q, struct node *r)
         }
     }
     return (flag);
+
 }
