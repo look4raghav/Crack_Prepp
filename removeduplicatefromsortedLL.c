@@ -1,4 +1,5 @@
 void removeduplicates(struct node* head)
+
 {
     struct node* current = head;
     if(current == NULL) return;
