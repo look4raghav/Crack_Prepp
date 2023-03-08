@@ -1,4 +1,5 @@
 copy_linked_lists(struct node *q, struct node **s)
+
 {
     if(q!=NULL)
     {
