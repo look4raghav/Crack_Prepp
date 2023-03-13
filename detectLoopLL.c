@@ -2,6 +2,7 @@
 #include <ctype.h>
 #include <stdlib.h>
 
+
 typedef struct node
 {
     void *data;
