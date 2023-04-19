@@ -32,4 +32,3 @@ int main()
 		<< MatrixChainOrder(arr, 1, N - 1);
 	return 0;
 }
-
